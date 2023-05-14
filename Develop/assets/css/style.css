@@ -55,24 +55,42 @@ a {
     background-size: cover;
     background-position: center;
 }
-
-.float-left {
-    /* left float property set for the 1st and the 3rd image within the section with a 25px margin */
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    /* right flod property set to image #2 within the section */
-    float: right;
-    margin-left: 25px;
-}
-
 .content {
     /* content within the section has a left margin of 20px */
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+.searchEngine_onlineRep_socialMedia {
+    /* font, color, size, and margin set for Search engine, online reputation, and social media texts */
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.searchEngine_onlineRep_socialMedia img {
+    /* max height set for Search engine, online reputation, and social media images */
+    max-height: 200px;
+}
+.float-left {
+    /* left float property set for the image 1 and 3 within the section with a 25px margin */
+    float: left;
+    margin-right: 25px;
+}
+.float-right {
+    /* right float property set to image #2 within the section */
+    float: right;
+    margin-left: 25px;
+}
+
+.searchEngine_onlineRep_socialMedia h2 {
+    /* font-size, and margin-bottom set for Search engine, online reputation, and social media headings */
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
 .benefits {
@@ -90,19 +108,11 @@ a {
 }
 
 .benefit-lead h3 {
-    /* text and margin set for Lead Generation */
+    /* text and margin set for Lead Generation heading */
     margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-brand_Cost h3 {
-    /* text and margin set for Brand awareness and cost management */
-    margin-top: 32px;
-    margin-bottom: 10px;
-    text-align: center;
-}
-
 .benefit-lead img {
     /* text and margin set for Lead Generation's icon */
     display: block;
@@ -110,38 +120,27 @@ a {
     max-width: 150px;
 }
 
+.benefit-brand_Cost h3 {
+    /* text and margin set for Brand awareness and cost management's headings */
+    margin-top: 32px;
+    margin-bottom: 10px;
+    text-align: center;
+}
 .benefit-brand_Cost img {
-    /* text and margin set for rand awareness and cost management's icon */
+    /* text and margin set for brand awareness and cost management's icons */
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.searchEngine_onlineRep_socialMedia {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.searchEngine_onlineRep_socialMedia img {
-    max-height: 200px;
-}
-
-.searchEngine_onlineRep_socialMedia h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* font, text, and padding properties set for the footer */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 .footer h2 {
+    /*font-size set for footer's heading */
     font-size: 20px;
 }
