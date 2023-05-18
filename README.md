@@ -33,9 +33,7 @@
     11. Deployment website was clicked by going to the Actions page of the repository
     12. Webside deployed successfully without errors (See screenshot below)
 
-        ![Screenshot](./Develop/assets/images/Live-site-screenshot.png)
-
-
+![angelinrajan github io_Angelin_02-challenge_(iPad Air)](https://github.com/angelinrajan/Angelin_02-challenge/assets/132680979/bdd44371-7706-4858-a207-52a036f6de69)
 
 ## Outside source reference-
 
