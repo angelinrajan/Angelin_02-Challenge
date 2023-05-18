@@ -4,7 +4,7 @@
     The web application named Horiseon is a marketing agency that assis businesses with better search engine results, Online Reputation management, and Social media marketing.
     Some key benefits they provide are : Lead Generation, Brand Awareness, and Cost Management.
 
-## Website's Live URL - 
+## Website's Live URL - https://angelinrajan.github.io/Angelin_02-challenge/
     
 
 ## The following changes were made to the html and css files-
