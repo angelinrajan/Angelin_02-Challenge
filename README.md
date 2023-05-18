@@ -32,7 +32,8 @@
     10. Main branch was selected for deployment by navigating to settings/pages from the repository
     11. Deployment website was clicked by going to the Actions page of the repository
     12. Webside deployed successfully without errors (See screenshot below)
-    
+
+        ![Screenshot](./Develop/assets/images/Live-site-screenshot.png)
 
 
 
@@ -40,4 +41,4 @@
 
     1. Used mdm web docs (url- https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html) to look for proper semantics. Used this website to learn about elements that are considered part of semantics for HTML and CSS such as li, nav, section. This website was used as reference for html and css for the challenge.
 
-    2. Used github.com (url- https://github.com/mattcone/markdown-guide/blob/master/_basic-syntax/line-breaks.md) to refer on how to use line break in orer to use it within the Readme.md file 
+    2. Referred this Youtube video on how to attach screenshots to readme file. URL- https://www.youtube.com/watch?v=Ljj1wGFJqPY
