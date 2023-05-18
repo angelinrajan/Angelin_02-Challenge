@@ -1,7 +1,7 @@
 # Angelin-02_challenge - Horiseon
 
 ## Website overview
-    The web application named Horiseon is a marketing agency that assis businesses with better search engine results, Online Reputation management, and Social media marketing. Some key benefits they provide are : Lead Generation, Brand Awareness, and Cost Management.
+    The web application named Horiseon is a marketing agency that assis businesses with better search engine results, Online Reputation management, and Social media marketing. <br> Some key benefits they provide are : Lead Generation, Brand Awareness, and Cost Management.
 
 ## Website's Live URL - 
     
@@ -37,3 +37,5 @@
 ## Outside source reference-
 
     1. Used mdm web docs (url- https://developer.mozilla.org/en-US/docs/Glossary/Semantics#semantics_in_html) to look for proper semantics. Used this website to learn about elements that are considered part of semantics for HTML and CSS such as li, nav, section. This website was used as reference for html and css for the challenge.
+
+    2. Used github.com (url- https://github.com/mattcone/markdown-guide/blob/master/_basic-syntax/line-breaks.md) to refer on how to use line break in orer to use it within the Readme.md file 
