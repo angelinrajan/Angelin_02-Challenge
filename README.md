@@ -31,6 +31,7 @@
     10. Main branch was selected for deployment by navigating to settings/pages from the repository
     11. Deployment website was clicked by going to the Actions page of the repository
     12. Webside deployed successfully without errors (See screenshot below)
+    
 
 
 
